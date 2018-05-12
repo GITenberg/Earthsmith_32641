@@ -1,0 +1,34 @@
+_repo: Earthsmith_32641
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32641-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Lesser, Milton
+    - Thames, C. H.
+    - Wilder, Stephen
+    - Ridgway, Jason
+    - Chase, Adam
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_issued: '2010-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Earthsmith
+url: http://www.gutenberg.org/ebooks/32641
